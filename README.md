@@ -1,24 +1,5 @@
-# Ride-Sharing Uber Lyft Android App
-Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project
-
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/amitshekhariitbhu/ridesharing-uber-lyft-app/master/assets/banner-ridesharing-uber-lyft-app.jpg">
-</p>
-<br>
-
-## About me
-
-Hi, I am [**Amit Shekhar**](https://amitshekhar.me), I have mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
-
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [YouTube](https://www.youtube.com/@amitshekhar)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-## [My Personal Blog - amitshekhar.me](https://amitshekhar.me/blog) - High-quality content to learn Android concepts.
+# PmuRide Android App
+PmuRide is an innovative ride-sharing application specifically designed to meet the transportation needs of students at Prince Mohammad Bin Fahd University (PMU). In an era where urban mobility is a critical aspect of daily life, PmuRide offers a practical, eco-friendly, and efficient solution for commuting within the university campus and its surrounding areas.
 
 ## We will build and learn the following for the App like Uber and Lyft:
 * Create Rider Android Clone App
